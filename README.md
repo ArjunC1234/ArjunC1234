@@ -1,1 +1,1 @@
-![ArjunC1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArjunC1234&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![ArjunC1234's GitHub stats](https://github-stats-extended.vercel.app/api?username=ArjunC1234)](https://github.com/stats-organization/github-stats-extended)
